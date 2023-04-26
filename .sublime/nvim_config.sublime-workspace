@@ -1,0 +1,1327 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"met",
+				"meta_scope"
+			],
+			[
+				"proto",
+				"meta_include_prototype"
+			],
+			[
+				"pop",
+				"pop-out"
+			],
+			[
+				"stra",
+				"stray-group"
+			],
+			[
+				"funct",
+				"function-arguments-body"
+			],
+			[
+				"T",
+				"Toggle"
+			],
+			[
+				"Activ",
+				"Active"
+			],
+			[
+				"t",
+				"timeout"
+			],
+			[
+				"Key",
+				"KeyTable"
+			],
+			[
+				"_l",
+				"_last_key"
+			],
+			[
+				"Le",
+				"Length"
+			],
+			[
+				"Lengt",
+				"Length"
+			],
+			[
+				"ma",
+				"main"
+			],
+			[
+				"Nest",
+				"MapNestedKey"
+			],
+			[
+				"Search",
+				"SearchBrowserFromClipboard"
+			],
+			[
+				"sc",
+				"scope"
+			],
+			[
+				"for",
+				"for-in-block"
+			],
+			[
+				"for-in",
+				"for-in-expr"
+			],
+			[
+				"for-",
+				"for-in-block-start"
+			],
+			[
+				"loop",
+				"loop-files-block-pre"
+			],
+			[
+				"gener",
+				"generic-brackets-body"
+			],
+			[
+				"generi",
+				"generic-group-body"
+			],
+			[
+				"literal-con",
+				"literal-constants-value"
+			],
+			[
+				"liter-cn",
+				"literal-constants-this"
+			],
+			[
+				"liter",
+				"literal-constants-boolean"
+			],
+			[
+				"func",
+				"function-arguments-body"
+			],
+			[
+				"class-",
+				"class-block-body"
+			],
+			[
+				"else-if",
+				"else-if-block-start-pre"
+			],
+			[
+				"if-blo",
+				"if-block-start-pre"
+			],
+			[
+				"else-block-",
+				"else-block-start-pre"
+			],
+			[
+				"keywo",
+				"if-else-keywords"
+			],
+			[
+				"else",
+				"else-pop"
+			],
+			[
+				"es",
+				"else-pop"
+			],
+			[
+				"scope",
+				"meta_content_scope"
+			],
+			[
+				"loop-coun",
+				"loop-count-expression"
+			],
+			[
+				"loop-cou",
+				"loop-count-expression"
+			],
+			[
+				"loop-re",
+				"loop-read-block"
+			],
+			[
+				"looop",
+				"loop-parse-block"
+			],
+			[
+				"loop-in",
+				"loop-infinite-block-start"
+			],
+			[
+				"e",
+				"else-pop"
+			],
+			[
+				"loop-f",
+				"loop-files-expression"
+			],
+			[
+				"elsei",
+				"else-if-block-start"
+			],
+			[
+				"if-",
+				"if-block-start"
+			],
+			[
+				"DetectH",
+				"DetectHiddenWindows"
+			],
+			[
+				"SetWindowLong",
+				"SetWindowLongPtrW"
+			],
+			[
+				"GetWindowLon",
+				"GetWindowLongPtrW"
+			],
+			[
+				"Dete",
+				"DetectHiddenWindows"
+			],
+			[
+				"pwndp",
+				"pWndProcOld"
+			],
+			[
+				"SetWind",
+				"SetWindowLong"
+			],
+			[
+				"ba",
+				"\"backgroundImageOpacity\""
+			],
+			[
+				"curs",
+				"\"cursorHeight\""
+			],
+			[
+				"WM_",
+				"OnWM_MOUSEWHEEL"
+			],
+			[
+				"DWMWA_NCRENDERIN",
+				"DWMWA_NCRENDERING_ENABLED"
+			],
+			[
+				"qui",
+				"quick-pop"
+			],
+			[
+				"fun",
+				"function-block"
+			],
+			[
+				"br",
+				"brackets"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"meta_",
+				"meta_content_scope"
+			],
+			[
+				"meta_scope",
+				"meta_content_scope"
+			],
+			[
+				"know",
+				"known_functions"
+			],
+			[
+				"stray",
+				"stray-group"
+			],
+			[
+				"quic",
+				"quick-pop"
+			],
+			[
+				"try-e",
+				"try-embracing-below"
+			],
+			[
+				"eat",
+				"eat-line-pop"
+			],
+			[
+				"expre",
+				"expression-group"
+			],
+			[
+				"qi",
+				"quick-pop-2"
+			],
+			[
+				"lin-e",
+				"eat-line-pop"
+			],
+			[
+				"bra",
+				"braces"
+			],
+			[
+				"quick-p",
+				"quick-pop-2"
+			],
+			[
+				"bloc",
+				"block-statement"
+			],
+			[
+				"para",
+				"parameter-group"
+			],
+			[
+				"exp",
+				"expression"
+			],
+			[
+				"str",
+				"stray-brace"
+			],
+			[
+				"lo",
+				"lonely-if-body"
+			],
+			[
+				"qio",
+				"quick-pop-3"
+			],
+			[
+				"em",
+				"embraced-if-body"
+			],
+			[
+				"blo",
+				"block-statement"
+			],
+			[
+				"paramet",
+				"parameter-group"
+			],
+			[
+				"pa",
+				"parameter-group"
+			],
+			[
+				"oper",
+				"compare-operators"
+			],
+			[
+				"as",
+				"assign_operators"
+			],
+			[
+				"ope",
+				"operator_compare"
+			],
+			[
+				"com",
+				"comments"
+			],
+			[
+				"escap",
+				"escape_captures"
+			],
+			[
+				"embed",
+				"embed_scope"
+			],
+			[
+				"rg",
+				"rgx_string"
+			],
+			[
+				"strin",
+				"string_operator"
+			],
+			[
+				"rgx",
+				"rgx_variable"
+			],
+			[
+				"D",
+				"Gdip_v2Ex"
+			],
+			[
+				"meta",
+				"meta_scope"
+			],
+			[
+				"dire",
+				"directive_eats_expression"
+			],
+			[
+				"se",
+				"section"
+			],
+			[
+				"co",
+				"control"
+			],
+			[
+				"ot",
+				"other"
+			],
+			[
+				"Animate",
+				"AnimateWindow"
+			],
+			[
+				"Mar",
+				"MarginY"
+			],
+			[
+				"A_Scre",
+				"A_ScreenWidth"
+			],
+			[
+				"WinActi",
+				"WinActive"
+			],
+			[
+				"SendX",
+				"SendXButton2"
+			],
+			[
+				"GetKey",
+				"GetKeyState"
+			],
+			[
+				"GetK",
+				"GetKeyState"
+			],
+			[
+				"ahkr",
+				"ahkrun2"
+			],
+			[
+				"getat",
+				"getattr"
+			],
+			[
+				"op",
+				"Popen"
+			],
+			[
+				"CLIP",
+				"ClipboardAll"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"Numpad",
+				"NumpadDel"
+			],
+			[
+				"NumpadEn",
+				"NumpadEnter"
+			],
+			[
+				"Alt",
+				"AltTab"
+			],
+			[
+				"AltTa",
+				"AltTab"
+			],
+			[
+				"LA",
+				"LAltDown"
+			],
+			[
+				"ISSh",
+				"IsShiftUp"
+			],
+			[
+				"Is",
+				"IsShiftFunc"
+			],
+			[
+				"HotSt",
+				"Hotstring"
+			],
+			[
+				"Hot",
+				"Hotstring"
+			],
+			[
+				"Exi",
+				"ExitApp"
+			],
+			[
+				"bfFa",
+				"bfFadeOut"
+			],
+			[
+				"Bett",
+				"BetterClipboard"
+			],
+			[
+				"Better",
+				"BetterClipboard"
+			],
+			[
+				"BetterClip",
+				"BetterClipboard"
+			],
+			[
+				"Fad",
+				"FadeIn"
+			],
+			[
+				"of",
+				"oFade"
+			],
+			[
+				"o",
+				"oFade"
+			],
+			[
+				"oDea",
+				"oDefaultFadeSettings"
+			],
+			[
+				"A_",
+				"A_ScreenWidth"
+			],
+			[
+				"Set",
+				"SplishSetFadeSettings"
+			],
+			[
+				"Splish",
+				"JLK_Splish"
+			],
+			[
+				"FileExis",
+				"FileExist()"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/jonat/.config/nvim/init.lua",
+			"redo_stack":
+			[
+				[
+					94,
+					1,
+					"left_delete",
+					null,
+					"AQAAAEIEAAAAAAAAQwQAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABCBAAAAAAAAEIEAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					92,
+					1,
+					"insert",
+					{
+						"characters": "A"
+					},
+					"AQAAAEIEAAAAAAAAQgQAAAAAAAABAAAAQQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABDBAAAAAAAAEMEAAAAAAAAAAAAAAAA8L8"
+				]
+			],
+			"settings":
+			{
+				"buffer_size": 1496,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/jonat/.config/nvim/lua/pkgs/std.lua",
+			"settings":
+			{
+				"buffer_size": 1602,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					4,
+					1,
+					"left_delete",
+					null,
+					"AQAAADwFAAAAAAAAPAUAAAAAAAABAAAALA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA9BQAAAAAAAD0FAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/BuildSystems/Python310.sublime-build",
+					""
+				],
+				[
+					"Packages/User/BuildSystems/Python310.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/BuildSystems/Python310.sublime-build",
+					"Format [black]"
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/AutoHotkey Runner/AHKv2.sublime-build",
+					""
+				],
+				[
+					"Packages/AutoHotkey Runner/AHKv2.sublime-build",
+					"Run --- From Default Installation Path"
+				]
+			],
+			[
+				"Packages/AutoHotkey Runner/AHKv2.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/AutoHotkey Runner/AHKv2.sublime-build",
+					""
+				],
+				[
+					"Packages/AutoHotkey Runner/AHKv2.sublime-build",
+					"as piped buffer"
+				]
+			],
+			[
+				"Packages/AutoHotkey Runner/AHKv2.sublime-build",
+				"as piped buffer"
+			]
+		],
+		[
+			[
+				[
+					"Packages/AutoHotkey/AutoHotkey.sublime-build",
+					""
+				],
+				[
+					"Packages/AutoHotkey/AutoHotkey.sublime-build",
+					"Default"
+				],
+				[
+					"Packages/AutoHotkey/AutoHotkey.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/AutoHotkey/AutoHotkey.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"key lsp",
+				"Preferences: LSP Key Bindings"
+			],
+			[
+				"lsp",
+				"Preferences: LSP-lua Settings"
+			],
+			[
+				"enable",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"disable",
+				"LSP: Disable Language Server in Project"
+			],
+			[
+				"synxtax",
+				"Set Syntax: Sublime Text Syntax Definition (YAML)"
+			],
+			[
+				"macro",
+				"Set Syntax: Sublime Text Macro (JSON)"
+			],
+			[
+				"",
+				"AutoHotkey Runner: Key Bindings"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"col",
+				"UI: Select Color Scheme"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ahk",
+				"Build With: AHKv2"
+			],
+			[
+				"prefer new",
+				"PackageDev: New TextMate Preferences File"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"xml",
+				"Set Syntax: TextMate Syntax Definition (YAML)"
+			],
+			[
+				"syntax new",
+				"PackageDev: New TextMate Syntax Definition"
+			],
+			[
+				"plist",
+				"PackageDev: Convert (YAML, JSON, PList) to…"
+			],
+			[
+				"lsp pre",
+				"Preferences: LSP-yaml Settings"
+			],
+			[
+				"packagedev sy",
+				"PackageDev: Rearrange YAML Syntax Definition"
+			],
+			[
+				"lsp ",
+				"LSP: Run Code Lens"
+			],
+			[
+				"new synt",
+				"PackageDev: New TextMate Syntax Definition (YAML)"
+			],
+			[
+				"yaml",
+				"PackageDev: Convert to YAML and Rearrange Syntax Definition"
+			],
+			[
+				"json",
+				"Convert JSON to YAML"
+			],
+			[
+				"spa",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"cus",
+				"UI: Customize Color Scheme"
+			],
+			[
+				"custo",
+				"UI: Customize Theme"
+			],
+			[
+				"format",
+				"LSP: Format File"
+			],
+			[
+				"pref",
+				"Preferences: Settings"
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings"
+			],
+			[
+				"pre",
+				"Preferences: Settings"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"prefer",
+				"Preferences: Settings"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Format JSON Lines"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"package dev",
+				"PackageDev: New Settings File"
+			],
+			[
+				"rmeo",
+				"Package Control: Remove Package"
+			],
+			[
+				"new",
+				"File: New View into File"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"exr",
+				"Extract Sublime Package: Extract open Package File"
+			],
+			[
+				"autohot",
+				"AutoHotkey - Run"
+			],
+			[
+				"test",
+				"TestPluginAA: Test Command AA"
+			],
+			[
+				"extract",
+				"Extract Sublime Package: Extract open Package File"
+			],
+			[
+				"gruvbox",
+				"gruvbox: Readme"
+			],
+			[
+				"scheme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 187.0,
+		"history":
+		[
+			"sublime.run_command(\"toggle_setting\", {\"gutter\":False})",
+			"sublime.run_command(\"toggle_setting\", {\"gutter\"})",
+			"sublime",
+			"sublime.window()",
+			"sublime.window",
+			"sublime.run_command(\"move\", {\"by\": \"characters\",\"forwards\":False})",
+			"sublime.run_command(\"toggle_setting\", {\"gutter\":True})",
+			"sublime.run_command(\"toggle_setting\", \"gutter\")",
+			"sublime.run_command(\"toggle_setting\", {\"setting\":\"gutter\"})",
+			"sublime.toggle_setting(\"gutter\")",
+			"sublime.run_command(\"toggle-setting\", \"gutter\")",
+			"sublime.run_command(\"toggle_setting\", \"gutter\")",
+			"sublime.log_commands(True)",
+			"import sys; print(sys.version)",
+			"sys.version",
+			"version",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/jonat/.config/nvim",
+		"/C/Users/jonat/.config/nvim/lua",
+		"/C/Users/jonat/.config/nvim/lua/pkgs"
+	],
+	"file_history":
+	[
+		"/C/Users/jonat/.config/nvim/lua/pkgs/init.lua",
+		"/C/Users/jonat/.config/nvim/lua/pkgs/vs.lua",
+		"/C/Users/jonat/Portables/sublime_text_4/Data/Packages/AutoSynTest/AutoHotkey2WFKN.sublime-syntax",
+		"/C/Users/jonat/Documents/gitrepos/CustomSublimeSyntaxes/V2CustomLatest/AutoHotkey2.sublime-syntax",
+		"/C/Users/jonat/.vscode/extensions/whizkydee.material-palenight-theme-2.0.2-universal/themes/palenight.json",
+		"/C/Users/jonat/Portables/VSCode.Data.Insider/.customcss/custom.css",
+		"/C/Users/jonat/.config/nvim/bin/opts.lua",
+		"/C/Users/jonat/.config/nvim/init.lua",
+		"/C/Users/jonat/AppData/Local/nvim-data/site/pack/paqs/opt/coc.nvim/Readme.md",
+		"/C/Users/jonat/AppData/Local/Packages/Microsoft.WindowsTerminal_8wekyb3d8bbwe/LocalState/settings.json",
+		"/C/Users/jonat/Documents/AHK Scripts/OnByDefault/OnByDefault.ahk",
+		"/C/Users/jonat/Documents/gitrepos/AHKv2Toys/scratch.ahk",
+		"/C/Users/jonat/AppData/Local/nvim-data/site/pack/denops/start/autoload/denops.vim",
+		"/D/Code/Go/ST/test000/main.go",
+		"/C/Users/jonat/AppData/Local/nvim-data/site/pack/denops/start/autoload/denops/plugin.vim",
+		"/C/Users/jonat/AppData/Local/nvim-data/site/pack/denops/start/autoload/denops/server.vim",
+		"/C/Users/jonat/AppData/Local/nvim-data/log",
+		"/C/Users/jonat/AppData/Local/nvim-data/paq.log",
+		"/C/Users/jonat/AppData/Local/nvim-data/.netrwhist",
+		"/C/Users/jonat/Documents/gitrepos/AHKv2Toys/Resources/thqby_AHK2Lib/SQLite/CSQLite.ahk",
+		"/C/Windows/System32/desk.cpl",
+		"/C/Users/jonat/Documents/gitrepos/AHKv2Toys/Lib/Utils/AlterSoundVolume.ahk",
+		"/C/Program Files (x86)/Vim/vim90/README.txt",
+		"/C/Program Files (x86)/Vim/vim90/uninstall.txt",
+		"/C/Program Files (x86)/Vim/vim90/doc/os_win32.txt",
+		"/C/Users/jonat/Portables/sublime_text_4/Data/Packages/AutoSynTest/FilePattern.sublime-syntax",
+		"/C/Users/jonat/Portables/sublime_text_4/Data/Packages/AutoSynTest/AutoHotkey2FML.sublime-syntax",
+		"/C/Users/jonat/Portables/sublime_text_4/Data/Packages/AutoSynTest/AutoHotkey2FK.sublime-syntax",
+		"/C/Users/jonat/Portables/sublime_text_4/Data/Packages/User/Synful/AutoHotkey2W.sublime-syntax",
+		"/C/Users/jonat/Documents/gitrepos/AHKv2Toys/ScinSkratch/Scritch.ahk",
+		"/C/Users/jonat/Portables/sublime_text_4/Data/Packages/User/LSP-ahk2/Comments.tmPreferences",
+		"/C/Users/jonat/Documents/gitrepos/AHKv2Toys/DefaultOn.ahk",
+		"/C/Users/jonat/Documents/gitrepos/AHKv2Toys/WillFuckUp/Lib/GdipLib/Gdip_Custom.ahk",
+		"/C/Users/jonat/Documents/gitrepos/AHKv2Toys/WillFuckUp/Lib/Utils/SearchV2Docs.ahk",
+		"/C/Users/jonat/Documents/gitrepos/AHKv2Toys/WillFuckUp/Lib/DEBUG/DBT.ahk",
+		"/C/Users/jonat/Documents/gitrepos/AHKv2Toys/WillFuckUp/Lib/Utils/FormatComment.ahk",
+		"/C/Users/jonat/Portables/sublime_text_4/Data/Packages/AutoSynTest/Samples/TypeScript.sublime-syntax",
+		"/C/Users/jonat/Portables/sublime_text_4/Data/Packages/AutoSynTest/Samples/Go.sublime-syntax",
+		"/C/Users/jonat/Portables/sublime_text_4/Data/Packages/AutoSynTest/Samples/Lua.sublime-syntax",
+		"/C/Users/jonat/Portables/sublime_text_4/Data/Packages/AutoSynTest/Samples/JavaDoc.sublime-syntax",
+		"/C/Users/jonat/Portables/sublime_text_4/Data/Packages/AutoSynTest/Samples/YAML.sublime-syntax",
+		"/C/Users/jonat/Portables/sublime_text_4/Data/Packages/AutoSynTest/Samples/Oniguruma RegExp.sublime-syntax",
+		"/C/Users/jonat/Portables/sublime_text_4/Data/Packages/AutoSynTest/Samples/Sublime JSON.sublime-syntax",
+		"/C/Users/jonat/Portables/sublime_text_4/Data/Packages/AutoSynTest/Samples/C.sublime-syntax",
+		"/C/Users/jonat/Portables/sublime_text_4/Data/Packages/AutoSynTest/Samples/C++.sublime-syntax",
+		"/C/Users/jonat/Portables/sublime_text_4/Data/Packages/AutoSynTest/Samples/C#.sublime-syntax",
+		"/C/Users/jonat/Portables/sublime_text_4/Data/Packages/AutoSynTest/Samples/Java.sublime-syntax",
+		"/C/Users/jonat/Documents/gitrepos/AHKv2Toys/Scripts/iTunesWidget/iWidget.ahk",
+		"/C/Users/jonat/Documents/gitrepos/AHKv2Toys/Scripts/ImgToIco/ConvertImageToIcon.ahk",
+		"/C/Users/jonat/Documents/gitrepos/AHKv2Toys/Scripts/BetterClipboard/BetterClipboard.ahk",
+		"/C/Users/jonat/Portables/sublime_text_4/Data/Packages/YAML/YAML.sublime-syntax",
+		"/C/Users/jonat/Portables/sublime_text_4/Data/Packages/AutoSynTest/WabWab.tmTheme",
+		"/C/Users/jonat/Portables/sublime_text_4/Data/Packages/AutoSynTest/Comments.tmPreferences",
+		"/C/Users/jonat/Portables/sublime_text_4/Data/Packages/AutoSynTest/WobWob.tmTheme",
+		"/C/Users/jonat/Portables/sublime_text_4/Data/Packages/PackageDev/Package/TextMate Syntax Definition (YAML)/TextMate Syntax Definition (YAML).tmLanguage",
+		"/C/Users/jonat/Portables/sublime_text_4/Data/Packages/ahk2-lsp/syntaxes/ahk2.tmLanguage.json",
+		"/C/Users/jonat/Portables/sublime_text_4/Data/Packages/AutoSynTest/AutoHotkey2RV.YAML-tmLanguage",
+		"/C/Users/jonat/Portables/sublime_text_4/Data/Packages/PackageDev/Package/TextMate Syntax Definition (YAML)/TextMate Syntax Definition (YAML).YAML-tmLanguage",
+		"/C/Users/jonat/Portables/sublime_text_4/Data/Packages/AutoSynTest/WabWab.tmPreferences",
+		"/C/Users/jonat/Portables/sublime_text_4/Data/Packages/AutoSynTest/WobWob.sublime-syntax",
+		"/C/Users/jonat/Portables/sublime_text_4/Data/Packages/AutoSynTest/ahk2plz.tmLanguage.json",
+		"/C/Users/jonat/Portables/sublime_text_4/Data/Packages/AutoSynTest/ahk2plz.tmLanguage.plist",
+		"/C/Users/jonat/Portables/sublime_text_4/Data/Installed Packages/PackageDev.sublime-package",
+		"/C/Users/jonat/Portables/sublime_text_4/Packages/Language - English.sublime-package",
+		"/C/Users/jonat/Portables/sublime_text_4/Packages/YAML.sublime-package",
+		"/C/Users/jonat/Portables/sublime_text_4/Packages/Text.sublime-package",
+		"/C/Users/jonat/Portables/sublime_text_4/Data/Packages/AutoSynTest/AutoHotkey2RV.tmLanguage",
+		"/C/Users/jonat/Desktop/syntaxes/ahk2.tmLanguage.YAML-tmLanguage",
+		"/C/Users/jonat/Desktop/syntaxes/ahk2.tmLanguage.json",
+		"/C/Users/jonat/Portables/sublime_text_4/Data/Packages/User/Synful/AutoHotkey2FK.sublime-syntax",
+		"/C/Users/jonat/Portables/sublime_text_4/Data/Packages/User/Synful/FilePattern.sublime-syntax",
+		"/C/Users/jonat/Desktop/syntaxes/ahk2.tmLanguage.yaml",
+		"/C/Users/jonat/Desktop/syntaxes/trythisout.sublime-syntax",
+		"/C/Users/jonat/Portables/sublime_text_4/Data/Packages/User/Syntaxes/ahk2666.sublime-syntax",
+		"/C/Users/jonat/Desktop/syntaxes/ahk3.tmLanguage.json",
+		"/C/Users/jonat/Desktop/syntaxes/ocnverted/ahk3.tmLanguageblock.yaml",
+		"/C/Users/jonat/Desktop/syntaxes/ahk3.tmLanguage.yaml",
+		"/C/Users/jonat/Desktop/syntaxes/ahk2.try.b.tmLanguage",
+		"/C/Users/jonat/Portables/VSCodium1.17.2/data/extensions/thqby.vscode-autohotkey2-lsp-1.6.8/syntaxes/ahk2.json",
+		"/C/Users/jonat/Documents/gitrepos/AHKv2Toys/ScinSkratch/notes.conf",
+		"/C/Users/jonat/Portables/sublime_text_4/Data/Packages/User/Syntaxes/SyntaxTestingv2/AHKV2-005.sublime-syntax",
+		"/C/Users/jonat/Portables/sublime_text_4/Data/Packages/User/LSP-ahk2/AutoHotkey2.sublime-syntax",
+		"/C/Users/jonat/Portables/sublime_text_4/Data/Packages/C#/C#.sublime-syntax",
+		"/C/Users/jonat/Portables/sublime_text_4/Data/Packages/User/LSP-ahk2/AutoHotkey Woo.sublime-syntax",
+		"/C/Users/jonat/Documents/gitrepos/AHKv2Toys/Scripts/GdipTest/ArkiveGDI++/old_gdip_stuff/robodesign/Gdip_All.ahk",
+		"/C/Users/jonat/Portables/sublime_text_4/Data/Installed Packages/Rainglow.sublime-package",
+		"/C/Users/jonat/Portables/sublime_text_4/Data/Packages/Rainglow/rainglow/Pastel (rainglow).tmTheme",
+		"/C/Users/jonat/Documents/gitrepos/AHKv2Toys/Scripts/_scratch.ahk",
+		"/C/Users/jonat/Portables/sublime_text_4/Data/Packages/User/Syntaxes/SyntaxTestingv2/AHKV2-004.sublime-syntax",
+		"/C/Users/jonat/Portables/sublime_text_4/Data/Packages/User/Syntaxes/SyntaxTestingv2/AutoHotkey202.sublime-syntax",
+		"/C/Users/jonat/Documents/gitrepos/AHKv2Toys/Scripts/SyntaxTestingAh2/get_props_and_shit.ah2",
+		"/C/Users/jonat/Documents/gitrepos/AHKv2Toys/Scripts/Lib/DBT.ahk",
+		"/C/Users/jonat/Documents/gitrepos/AHKv2Toys/Scripts/AnimateWindowDLLCall.ahk",
+		"/C/Users/jonat/Portables/sublime_text_4/Data/Packages/AutoHotkey Runner/AutoHotkey Runner.sublime-settings",
+		"/C/Users/jonat/PyProjects/scritches/scritch_a.py",
+		"/C/Users/jonat/Portables/sublime_merge/Data/Packages/AutoHotkey Runner/autohotkey_runner.py",
+		"/C/Users/jonat/PyProjects/scritches/scritch_d.py",
+		"/C/Users/jonat/PyProjects/scritches/scritch_b.py",
+		"/C/Users/jonat/PyProjects/scritches/scritch_c.ahk",
+		"/C/Users/jonat/PyProjects/scritches/eieio/std_giver.ahk",
+		"/C/Users/jonat/Documents/AHK Scripts/JLK/Lib/JLK.ahk",
+		"/C/Users/jonat/PyProjects/scritches/eieio/ei.py",
+		"/C/Users/jonat/PyProjects/scritches/eieio/std_receiver.ahk",
+		"/C/Users/jonat/PyProjects/scritches/None",
+		"/C/Users/jonat/Portables/sublime_text_4/Data/Packages/User/ThemeScheduler.sublime-settings",
+		"/C/Users/jonat/Portables/sublime_text_4/Data/Packages/FileSystem Autocompletion/FilesystemAutocompletion.sublime-settings",
+		"/C/Users/jonat/Portables/sublime_text_4/Data/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/jonat/Portables/sublime_text_4/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/jonat/Portables/sublime_text_4/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/jonat/Documents/AHK Scripts/JLK/scratch0.ahk",
+		"/C/Users/jonat/Portables/sublime_text_4/Data/Packages/User/Completions/JLK_Splish_SetFadeSettings.sublime-snippet",
+		"/C/Users/jonat/Portables/sublime_text_4/Data/Packages/User/Completions/JLK_Splish_Instance_Definition.sublime-snippet",
+		"/C/Users/jonat/Documents/AHK Scripts/BetterClipboardV2/BetterClipboardV2.ahk",
+		"/C/Users/jonat/Documents/AHK Scripts/CreateNewAHKScript/Resources/Templates/StandardNew.ahk",
+		"/C/Users/jonat/Documents/AHK Scripts/CreateNewAHKScript/Resources/Templates/StandardNewFormatted.ahk",
+		"/C/Users/jonat/Documents/AHK Scripts/BetterClipboard/BetterClipboardIncludeRuntime.ahk",
+		"/C/Users/jonat/Documents/AHK Scripts/BetterClipboard/BetterClipboardIncludeInit.ahk",
+		"/C/Users/jonat/Documents/AHK Scripts/JLK/JLK.ahk",
+		"/C/Users/jonat/Documents/AHK Scripts/TestJLK.ahk",
+		"/C/Users/jonat/Documents/AutoHotkey/Lib/JLK.ahk",
+		"/C/Program Files/AutoHotkey/Lib/Acc.ahk",
+		"/C/Program Files/AutoHotkey/Libs/JLK.ahk",
+		"/C/Users/jonat/Documents/AHK Scripts/JLK/scratch.ahk",
+		"/C/Users/jonat/Documents/AHK Scripts/OnByDefault/AutoSettings.txt",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/jonat/Documents/AHK Scripts/CreateNewAHKScript/CreateNewAHKScriptIncludeRuntime.ahk",
+		"/C/Users/jonat/Documents/AHK Scripts/CreateNewAHKScript/CreateNewAHKScriptIncludeInit.ahk",
+		"/C/Users/jonat/Portables/sublime_text_4/Data/Installed Packages/AutoHotkey.sublime-package"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/jonat/.config/nvim/init.lua",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1496,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1090,
+								1090
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								}
+							],
+							"color_helper.refresh": true,
+							"color_helper.scan":
+							{
+								"allow_scanning": false,
+								"color_class":
+								[
+									{
+										"class": "css-level-4",
+										"scopes": ""
+									}
+								],
+								"color_trigger": "(?xi)\n(?:\n    \\b(?<![-#&$])(?:\n        color\\((?!\\s*-)|(?:hsla?|(?:ok)?(?:lch|lab)|hwb|rgba?)\\(\n) |\n\\b(?<![-#&$])[\\w]{3,}(?![(-])\\b|(?<![&])\\#)\n",
+								"current_ext": ".lua",
+								"current_syntax": "Lua/Lua",
+								"enabled": true,
+								"last_updated": 1680052314.27,
+								"scanning": "-comment"
+							},
+							"lsp_active": true,
+							"lsp_hover_provider_count": 10,
+							"lsp_uri": "file:///C:/Users/jonat/.config/nvim/init.lua",
+							"show_definitions": false,
+							"syntax": "Packages/Lua/Lua.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/jonat/.config/nvim/lua/pkgs/std.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1602,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1340,
+								1340
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								}
+							],
+							"color_helper.refresh": true,
+							"lsp_active": true,
+							"lsp_hover_provider_count": 1,
+							"lsp_uri": "file:///C:/Users/jonat/.config/nvim/lua/pkgs/std.lua",
+							"show_definitions": false,
+							"syntax": "Packages/Lua/Lua.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 216.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 67.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 0.0
+	},
+	"output.diagnostics":
+	{
+		"height": 120.0
+	},
+	"output.exec":
+	{
+		"height": 98.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.package_dev":
+	{
+		"height": 96.0
+	},
+	"pinned_build_system": "Packages/AutoHotkey Runner/AHKv2.sublime-build",
+	"project": "nvim_config.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 235.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 3
+	}
+}
